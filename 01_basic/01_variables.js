@@ -3,8 +3,17 @@ let accountEmail = "mirkashi111@gamil.com"
 var acccountPassword = "123456"
 accountcity= "islamabad"
 
-accountId =2
+//accountId =2//
 
 console.log(accountId);
+
+/**
+ * prefer not to use VAR
+ * because of issue in block scope and functional scope
+ * 
+ */
+
+
+
 
 console.table([accountId,accountEmail,acccountPassword,accountcity])
