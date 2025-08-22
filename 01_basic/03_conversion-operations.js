@@ -25,7 +25,7 @@ let valueInNumber = Number(score);
 //"" => false,
 //"loop loard" => true
 
-let somenumber = 34
+let somenumber =345
 
 let stringnumber = String(somenumber);
 console.log(stringnumber);
