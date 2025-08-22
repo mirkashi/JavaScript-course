@@ -28,5 +28,9 @@ let valueInNumber = Number(score);
 let somenumber =345
 
 let stringnumber = String(somenumber);
-console.log(stringnumber);
-console.log(typeof stringnumber);
+//console.log(stringnumber);
+//console.log(typeof stringnumber);
+
+/***************Operations********************* */
+
+let value = 43
