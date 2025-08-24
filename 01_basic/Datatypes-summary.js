@@ -54,3 +54,28 @@ console.log(typeof anotherid);
 //Object (host and does not implement [[Call]])	Implementation-defined except may not be "undefined", "boolean", "number", or "string".
 
 //http://262.ecma-international.org/5.1/#sec-11.4.3
+
+
+//+++++++++++++++++++++++++++++++++++++++++++++
+
+//stack (primitive), Heap(Non-primitive)
+
+let Footballername ="Messi"
+
+let Morefootballer = Footballername
+Morefootballer ="Lionel Messi"
+console.log(Morefootballer)
+console.log(Morefootballer)
+
+let user ={
+email:"messi88@gmail.com",
+ userid :"lionel messi",
+
+}
+
+let user2 = user
+
+user2.email = "messi10@yahoo.com"
+
+console.log(user.email);
+console.log(user2.email);
