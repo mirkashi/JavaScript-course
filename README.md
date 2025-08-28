@@ -16,3 +16,4 @@ learn JavaScript in 6 months its my Target.lets goo budy!
  <h7>Date:27:08:2025</h7><br>
  Today i learn Number and math in javascrip.number uses and their types & also multiple,square,etc etc.
 </P>
+<p>aj rest day hai thora sa</p>
