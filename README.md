@@ -17,3 +17,5 @@ learn JavaScript in 6 months its my Target.lets goo budy!
  Today i learn Number and math in javascrip.number uses and their types & also multiple,square,etc etc.
 </P>
 <p>aj rest day hai thora sa</p>
+<h6>Aj sunday hai</h6>
+<p>tu aj rest day hai kam to chal ta ry ga</p>
