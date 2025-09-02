@@ -19,3 +19,13 @@ learn JavaScript in 6 months its my Target.lets goo budy!
 <p>aj rest day hai thora sa</p>
 <h6>Aj sunday hai</h6>
 <p>tu aj rest day hai kam to chal ta ry ga</p>
+
+# Tuesday
+<h6>Date:02/09/2025</h6>
+<h1>Arrays</h1>
+<p><B>Javascript k array k bary aj study kie hai.array khn,kab or kasy use hoty hia</B></br>
+1- Array method kon kon sy hia</br>
+2- Array ki seprate or combine kasy kar na etc etc
+3- Array ki types like "Array.form",".of","isArray" ko ready kiya hia k yai kasy function karty hai.
+4- Baki concept khud partice kar k clear karou bsdk walou.
+</p>
