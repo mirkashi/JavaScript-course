@@ -29,3 +29,9 @@ learn JavaScript in 6 months its my Target.lets goo budy!
 3- Array ki types like "Array.form",".of","isArray" ko ready kiya hia k yai kasy function karty hai.
 4- Baki concept khud partice kar k clear karou bsdk walou.
 </p>
+<h2>Objects </h2>
+<p>1- Study about singleton kiya hota hia</br>
+ 2- object literals b concept ko samjay</br>
+ 3- symbol declare kasy karty hai</br>
+ 4- Object ki value ko kasy declare karty hai.
+</p>
