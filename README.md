@@ -11,13 +11,13 @@ learn JavaScript in 6 months its my Target.lets goo budy!
 <p>Today I learn JavaScript Strings types and their functions to know how they work.hmm little bit need time to read extra string function and their working catagories!.</p>
 
 
-<H3>Number and Math</H3>
+# Number and Math
 <P>
- <h7>Date:27:08:2025</h7><br>
+ <h3>Date:27:08:2025</h3><br>
  Today i learn Number and math in javascrip.number uses and their types & also multiple,square,etc etc.
 </P>
-<p>aj rest day hai thora sa</p>
-<h6>Aj sunday hai</h6>
+
+<h2>Aj sunday hai</h2>
 <p>tu aj rest day hai kam to chal ta ry ga</p>
 
 # Tuesday
