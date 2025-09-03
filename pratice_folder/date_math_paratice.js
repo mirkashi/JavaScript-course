@@ -11,7 +11,7 @@
     minute: "2-digit",
     hour12: true
  };
- const formattedDate = now.toLocaleString("en-US",options);
+ const formattedDate = now.toLocaleString("en-GB",options);
  console.log(formattedDate);
  ///note  /// 
  
