@@ -60,3 +60,25 @@
 //"2-digit" → hamesha 2 digit (01, 02 …).
 //hour12: true → AM/PM wala 12-hour format.
 //"en-US" → formatting English (US style) mein ho.****** */
+
+//***************Get day */
+//Day of the Week
+
+//Get today’s day name (e.g., Wednesday) from the Date object.
+
+const today = new Date();
+
+const days = [
+  "Sunday",
+  "Monday",
+  "Tuesday",
+  "Wednesday",
+  "Thursday",
+  "Friday",
+  "Saturday"
+];
+
+
+const dayName = days[today.getDay()];
+
+console.log("Today is:", dayName);
