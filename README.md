@@ -35,3 +35,14 @@ learn JavaScript in 6 months its my Target.lets goo budy!
  3- symbol declare kasy karty hai</br>
  4- Object ki value ko kasy declare karty hai.
 </p>
+
+# Wednesday
+<h6>Date:03/09/2025</h6>
+<h1>Object continue</h1>
+<p>1- learning and clearn concept agin</br>
+2- Date and time pratice 
+3- Date or ous k types kasy use kar ni hai
+
+
+ 
+</p>
