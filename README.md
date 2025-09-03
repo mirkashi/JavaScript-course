@@ -42,7 +42,8 @@ learn JavaScript in 6 months its my Target.lets goo budy!
 <p>1- learning and clearn concept agin</br>
 2- Date and time pratice 
 3- Date or ous k types kasy use kar ni hai
-
+4- Practise on date formate abi or b kar ni ahi
+5- object ki 4 sy 5 function dekhy hia liken abi or b kar ny hai
 
  
 </p>
