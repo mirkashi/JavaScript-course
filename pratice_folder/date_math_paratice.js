@@ -66,19 +66,27 @@
 
 //Get today’s day name (e.g., Wednesday) from the Date object.
 
+//const today = new Date();
+
+//const days = [
+  //"Sunday",
+  //"Monday",
+  //"Tuesday",
+  //"Wednesday",
+  //"Thursday",
+  //"Friday",
+  //"Saturday"
+//];
+
+
+//const dayName = days[today.getDay()];
+
+//console.log("Today is:", dayName);
+///eik or short tareeka hai
+
 const today = new Date();
-
-const days = [
-  "Sunday",
-  "Monday",
-  "Tuesday",
-  "Wednesday",
-  "Thursday",
-  "Friday",
-  "Saturday"
-];
-
-
-const dayName = days[today.getDay()];
+const dayName = today.toLocaleString("en-US", { weekday: "long" });
 
 console.log("Today is:", dayName);
+
+
