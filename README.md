@@ -44,6 +44,13 @@ learn JavaScript in 6 months its my Target.lets goo budy!
 3- Date or ous k types kasy use kar ni hai</br>
 4- Practise on date formate abi or b kar ni ahi</br>
 5- object ki 4 sy 5 function dekhy hia liken abi or b kar ny hai</br>
+</p>
 
- 
+# Thursday
+<h6>Date:04/09/2025</h6>
+<p>1- Today I solve problem jasy current time and date display kar na</br>
+2- code ko short or clear code mai likh na</br>
+3- review old some notes about Date and time</br>
+4- Learn Date different functions and their work.
+
 </p>
