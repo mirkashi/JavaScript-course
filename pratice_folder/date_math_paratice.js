@@ -106,14 +106,20 @@
 
 // try and pratice every function.
 
-const date=new Date()
-console.log(date);
-console.log(date.toDateString());
-console.log(date.toISOString());
-console.log(date.toJSON());
-console.log(date.toLocaleDateString());
-console.log(date.toLocaleString());
-console.log(date.toString());
-console.log(date.toTimeString());
+////const date=new Date()
+//console.log(date);
+//console.log(date.toDateString());
+//console.log(date.toISOString());
+//console.log(date.toJSON());
+//console.log(date.toLocaleDateString());
+//console.log(date.toLocaleString());
+//console.log(date.toString());
+//console.log(date.toTimeString());
 
 // yai mian function hai bas in ko eik dafa dekh lou kasy kar ny hai.or kon se date kis format mai kar ni hai.
+
+const asim = new Date()
+
+const babar = new Date("2025-6-10")
+
+console.log(babar.toLocaleString());
