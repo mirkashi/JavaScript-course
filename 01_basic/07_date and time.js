@@ -15,8 +15,8 @@ console.log(mycreatedDate.toLocaleString());
 let mytimestamp = Date.now()
 
 //console.log(mytimestamp);
-//console.log(mycreatedDate.getTime())
-//console.log(Math.floor(Date.now()/1000));
+//console.log(mycreatedDate.getTime()) 
+//console.log(Math.floor(Date.now()/1000)); convert milisecond
 
 
 let newDate = new Date()
@@ -24,7 +24,7 @@ console.log(newDate);
 console.log(newDate.getMonth() + 2);
 console.log(newDate.getDay());
 
-//'${newDate.getday()} and the time'
+//'${newDate.getday()} and the time' "string interpolation" its mean back text.
 
 newDate.toLocaleString('default', {
     weekday: "long",
