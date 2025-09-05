@@ -2,17 +2,17 @@
 //Current date and time console par print karo.
 //👉 Output: 1 September 2025, 11:30 PM
 
- //const now = new Date();
- //const options = {
-  // month: "long",
-   // day: "numeric",
-    //year : "numeric",
-   // hour: "numeric",
-   // minute: "2-digit",
-   // hour12: true
- //};
- //const formattedDate = now.toLocaleString("en-GB",options);
- //console.log(formattedDate);
+ const now = new Date();
+ const options = {
+   month: "long",
+    day: "numeric",
+    year : "numeric",
+    hour: "numeric",
+    minute: "2-digit",
+    hour12: true
+ };
+ const formattedDate = now.toLocaleString("en-GB",options);
+ console.log(formattedDate);
  ///note  /// 
  
 // Jab aap month, day, ya year ke liye "numeric" use karte ho to iska matlab hota hai simple number //form show karna:
@@ -106,15 +106,15 @@
 
 // try and pratice every function.
 
-////const date=new Date()
-//console.log(date);
-//console.log(date.toDateString());
-//console.log(date.toISOString());
-//console.log(date.toJSON());
-//console.log(date.toLocaleDateString());
-//console.log(date.toLocaleString());
-//console.log(date.toString());
-//console.log(date.toTimeString());
+const date=new Date()
+console.log(date);
+console.log(date.toDateString());
+console.log(date.toISOString());
+console.log(date.toJSON());
+console.log(date.toLocaleDateString());
+console.log(date.toLocaleString());
+console.log(date.toString());
+console.log(date.toTimeString());
 
 // yai mian function hai bas in ko eik dafa dekh lou kasy kar ny hai.or kon se date kis format mai kar ni hai.
 
