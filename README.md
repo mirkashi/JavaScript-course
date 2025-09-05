@@ -48,8 +48,8 @@ learn JavaScript in 6 months its my Target.lets goo budy!
 
 # Thursday
 <h6>Date:04/09/2025</h6>
-<p>1- Today I solve problem jasy current time and date display kar na</br>
-2- code ko short or clear code mai likh na</br>
+<p>1- Today I solve problem jasy current time and date display kar na.</br>
+2- code ko short or clear code mai likh na.</br>
 3- review old some notes about Date and time.</br>
 4- Learn Date different functions and their work.
 </p>
