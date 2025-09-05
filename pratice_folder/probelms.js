@@ -12,7 +12,7 @@ let d=75;
  
 let result = (a * b * d) /(30 * c %100) ;
 
-//console.log(result);
+console.log(result);
  
 // convert current date and time 
 // like this 
