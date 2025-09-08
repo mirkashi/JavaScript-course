@@ -1,11 +1,11 @@
 //Arrays
 
-const myarr = [0, 1, 2, 3, 4, 5, 6] 
+const myarr = [20, 1, 2, 32, 4, 5, 46] 
 const myplayer = ["messi" , "raonaldo"]
 
 const myarr1 = new Array(1,2,3,4)
 
-console.log(myarr[4]);
+console.log(myarr[6]);
 
 // Array methods
 
@@ -26,9 +26,9 @@ console.log(myarr[4]);
 
 // slice , splice
 
-console.log(myn2)
-console.log("B" , myarr);
+//console.log(myn2)
+//console.log("B" , myarr);
 
-const myn2 = myarr.splice(1, 4)
-console.log("B" , myarr);
-console.log(myn2);
+//const myn2 = myarr.splice(1, 4)
+//console.log("B" , myarr);
+//console.log(myn2);
