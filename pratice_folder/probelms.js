@@ -19,5 +19,17 @@ console.log(result);
 // Example output: Current Date: 3 September 2025, 6:45 PM
 
 //start
+ 
+let ronaldo = new Date()
+ 
+let messi ={
+month:"long",
+year:"numeric",
+day:"numeric",
+minute:"2-digit",
+hour:"numeric",
+hour12:true
+};
 
-
+let fifa = ronaldo.toLocaleString("en-US",messi);
+console.log(fifa)
