@@ -20,16 +20,4 @@ console.log(result);
 
 //start
 
-let asim = new Date()
 
-let messi={
-month:"long",
-year:"numeric",
-day:"numeric",
-hour:"numeric",
-minute:"numeric",
-hour12:true
-}
-
-let mydate = asim.toLocaleString("en-GB",messi)
-console.log(mydate);
