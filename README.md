@@ -53,3 +53,5 @@ learn JavaScript in 6 months its my Target.lets goo budy!
 3- review old some notes about Date and time.</br>
 4- Learn Date different functions and their work.
 </p>
+
+<h4>Continue hai chora nahi hai seekhna</h4>
