@@ -67,3 +67,5 @@ console.log(whatsappuser)
 console.log(Object.keys(whatsappuser));
 console.log(Object.values(whatsappuser));
 console.log(Object.entries(whatsappuser));
+
+console.log(whatsappuser.hasOwnProperty("islogged"));
