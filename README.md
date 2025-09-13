@@ -56,3 +56,6 @@ learn JavaScript in 6 months its my Target.lets goo budy!
 
 <h4>Continue hai chora nahi hai seekhna</h4>
 <P>Problem sloving and revise again JS old notes,</P>
+
+# Firday 
+<h6>Date:12/09/2025</h6>
