@@ -59,7 +59,9 @@ learn JavaScript in 6 months its my Target.lets goo budy!
 
 # Firday 
 <h6>Date:12/09/2025</h6>
-<P>1-Learn about Object and their Uses.<br>
-2-Object function and their uses.<br>
-3-Arrays in object uses and their function.<br>
+<P>1- Learn about Object and their Uses.<br>
+2- Object function and their uses.<br>
+3- Arrays in object uses and their function.<br>
+4- learn About Object destructure and their types.<br>
+5- Uses of singelton object and function. 
 </P>
