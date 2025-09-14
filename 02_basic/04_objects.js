@@ -75,7 +75,18 @@ price:"500",
 created:"kashif mir"
 }
 
-//cours.price
+
 const {created: cdd} = cours//destructure kiya hia yhn code object
 //console.log(created)
 console.log(cdd)
+
+
+// "API" Kiya hota hia.abi k liyea yai samj lou k apna kam kise or k uper dal dyna.
+//"api" backend sy khuch value ayti hia jasy "JSON".
+// 
+
+      {
+//     name:"kashi",
+//     courscreated:"Mir",
+//     price:"free"               //is tarah likh ny json kehlata hai q k yai object ki tarah hai liken hai tu nahi
+// }
