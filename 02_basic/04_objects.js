@@ -28,7 +28,7 @@ const obj4 ={6:"legend",7:"excellent"}
 //const obj3= Object.assign({},obj1,obj2, obj4)//**object.assign* yai use kar ny sy single array object ay ga   */or jo empty bracket rakhi hai wo extra value add kar ny k liya hai.agar byd mai kar ni ho.
 //check on Object assign mdn...
 const obj3={...obj1,...obj2,...obj4}//yai b object ko spread kar t ahia.
-console.log(obj3);
+//console.log(obj3);
  
 
 
@@ -69,12 +69,13 @@ user[1].email
 
 //console.log(whatsappuser.hasOwnProperty("islogged"));
 
-const course = {
-   coursename:"Javascript",
-   price:"500$",
-   coursecreated:"Kashif mir",
+const cours ={
+coursename:"javascript",
+price:"500",
+created:"kashif mir"
 }
 
-course.coursename
-
-//console.log(coursename)
+//cours.price
+const {created: cdd} = cours//destructure kiya hia yhn code object
+//console.log(created)
+console.log(cdd)
