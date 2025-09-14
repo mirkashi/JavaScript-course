@@ -58,7 +58,6 @@ const user = [
     id: 1,
     email: "Kashimir111@gmail.com"
 },
-
 ]
 
 user[1].email
@@ -69,3 +68,13 @@ console.log(Object.values(whatsappuser));
 console.log(Object.entries(whatsappuser));
 
 console.log(whatsappuser.hasOwnProperty("islogged"));
+
+const course = {
+   coursename:"Javascript",
+   price:"500$",
+   coursecreated:"Kashif mir",
+}
+
+course.coursename
+
+console.log(coursename)
