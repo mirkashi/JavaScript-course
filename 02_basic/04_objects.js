@@ -90,3 +90,16 @@ console.log(cdd)
 //     courscreated:"Mir",
 //     price:"free"               //is tarah likh ny json kehlata hai q k yai object ki tarah hai liken hai tu nahi
 // }
+
+//
+
+//khie bar humy APIS array ki shap mai milty hia.
+// jasy
+[
+
+{},
+{},
+{}
+
+]
+
