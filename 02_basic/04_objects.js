@@ -61,13 +61,13 @@ const user = [
 ]
 
 user[1].email
-console.log(whatsappuser)
+//console.log(whatsappuser)
 
-console.log(Object.keys(whatsappuser));
-console.log(Object.values(whatsappuser));
-console.log(Object.entries(whatsappuser));
+//console.log(Object.keys(whatsappuser));
+//console.log(Object.values(whatsappuser));
+//console.log(Object.entries(whatsappuser));
 
-console.log(whatsappuser.hasOwnProperty("islogged"));
+//console.log(whatsappuser.hasOwnProperty("islogged"));
 
 const course = {
    coursename:"Javascript",
@@ -77,4 +77,4 @@ const course = {
 
 course.coursename
 
-console.log(coursename)
+//console.log(coursename)
