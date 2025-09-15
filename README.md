@@ -51,7 +51,7 @@ learn JavaScript in 6 months its my Target.lets goo budy!
 <p>1- Today I solve problem jasy current time and date display kar na.</br>
 2- code ko short or clear code mai likh na.</br>
 3- review old some notes about Date and time.</br>
-4- Learn Date different functions and their work.
+4- Learn Date different functions and their work.</br>
 </p>
 
 <h4>Continue hai chora nahi hai seekhna</h4>
@@ -63,5 +63,7 @@ learn JavaScript in 6 months its my Target.lets goo budy!
 2- Object function and their uses.<br>
 3- Arrays in object uses and their function.<br>
 4- learn About Object destructure and their types.<br>
-5- Uses of singelton object and function. 
+5- Uses of singelton object and function.
+6- Learn json api and their reading pattren.</br>
+7- Learn about API in javascript and their uses in javascript.
 </P>
