@@ -23,8 +23,16 @@ function addtwonumber(num1,num2){  //(num1,num2) is ko parameter bolty hai.
 return num1 + num2
 //return result
 //console.log("kashi") return k byd koi value nahi kam krti
-
 }
 const result = addtwonumber(4, 6);
 
-console.log("Result: ",result);
+//console.log("Result: ",result);
+
+function loginman(username){
+if(!username){
+   console.log("please enter a username");
+}
+return `${username} just logged in`
+}
+//console.log(loginman("messi"))
+console.log(loginman())
