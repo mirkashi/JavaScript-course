@@ -46,14 +46,4 @@ console.log(fifa)
 // JavaScript program to solve an expression
 
 // Take input from user
-let x = parseInt(prompt("Enter value of x:4 "));
-let y = parseInt(prompt("Enter value of y:6"));
-let z = parseInt(prompt("Enter value of z:9 "));
 
-// Example Expression (Replace with your actual equation)
-// Suppose expression: (x + y) * z
-let result = (x + y) * z;
-
-// Show result
-console.log("Result of the expression is: " + result);
-alert("Result of the expression is: " + result);
