@@ -35,4 +35,21 @@ if(!username){
 return `${username} just logged in`
 }
 //console.log(loginman("messi"))
-console.log(loginman())
+//console.log(loginman())
+
+function addtocart(val1, val2, ...num1){  ///...num1 yau cheez rest operator function mai kasy use hota hai paremeter mai
+   return num1
+}
+
+//console.log(addtocart(5,500,600,6406, 4045))
+
+const user={
+username: "kashif",
+lastname: "mir",
+
+}
+
+function course(anyman){
+   console.log(`username is ${anyman.username} and lastname is ${anyman.lastname}`);
+}
+course(user)
