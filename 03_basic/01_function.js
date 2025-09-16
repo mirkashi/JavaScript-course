@@ -52,4 +52,18 @@ lastname: "mir",
 function course(anyman){
    console.log(`username is ${anyman.username} and lastname is ${anyman.lastname}`);
 }
-course(user)
+//course(user)
+
+course({
+   username:"kashi",
+   lastname:"mir"
+})
+
+const mynewarray = [200,400,500,600]
+
+function returnVALUE(getArray){
+   return getArray[1]
+
+}
+// console.log(returnVALUE(mynewarray));
+console.log(returnVALUE([200,400,500,600]));
