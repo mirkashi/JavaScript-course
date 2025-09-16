@@ -4,13 +4,13 @@
 //     30C%100
 
 
-let  a=25;
-let b=20;
-let c=35;
-let d=75;
+//let  a=25;
+//let b=20;
+//let c=35;
+//let d=75;
 
  
-let result = (a * b * d) /(30 * c %100) ;
+//let result = (a * b * d) /(30 * c %100) ;
 
 console.log(result);
  
@@ -33,3 +33,27 @@ hour12:true
 
 let fifa = ronaldo.toLocaleString("en-US",messi);
 console.log(fifa)
+
+//problem
+///Write a program that solves the following expression: 
+//               [Equation]
+// Suppose the values of variables used in expression are as follows: 
+
+//x = 9, y = 15, z = 5 
+
+//Note: These values should be inputted during execution of program.  
+
+// JavaScript program to solve an expression
+
+// Take input from user
+let x = parseInt(prompt("Enter value of x:4 "));
+let y = parseInt(prompt("Enter value of y:6"));
+let z = parseInt(prompt("Enter value of z:9 "));
+
+// Example Expression (Replace with your actual equation)
+// Suppose expression: (x + y) * z
+let result = (x + y) * z;
+
+// Show result
+console.log("Result of the expression is: " + result);
+alert("Result of the expression is: " + result);
