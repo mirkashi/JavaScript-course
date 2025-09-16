@@ -63,7 +63,7 @@ learn JavaScript in 6 months its my Target.lets goo budy!
 2- Object function and their uses.<br>
 3- Arrays in object uses and their function.<br>
 4- learn About Object destructure and their types.<br>
-5- Uses of singelton object and function.
+5- Uses of singelton object and function.</br>
 6- Learn json api and their reading pattren.</br>
 7- Learn about API in javascript and their uses in javascript.
 </P>
