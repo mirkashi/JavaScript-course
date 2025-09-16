@@ -71,9 +71,12 @@ learn JavaScript in 6 months its my Target.lets goo budy!
 
 # Monday
 <h6>Date:16/09/2025</h6>
-<p>1- Learn About functions and their uses.
-2- function types and their working styles.
-3- parametes in functions and their uses.
+<p>1- Learn About functions and their uses.</br>
+2- function types and their working styles.</br>
+3- parametes in functions and their uses.</br>
+4- Object in functions and object works in functions.</br>
+5- Array uses in functions and learn aboutmore functins.
+
 
 
 </p>
