@@ -67,3 +67,13 @@ learn JavaScript in 6 months its my Target.lets goo budy!
 6- Learn json api and their reading pattren.</br>
 7- Learn about API in javascript and their uses in javascript.
 </P>
+
+
+# Monday
+<h6>Date:16/09/2025</h6>
+<p>1- Learn About functions and their uses.
+2- function types and their working styles.
+3- parametes in functions and their uses.
+
+
+</p>
