@@ -65,4 +65,4 @@ function returnVALUE(getArray){
 
 }
 // console.log(returnVALUE(mynewarray));
-console.log(returnVALUE([200,400,500,600]));
+console.log(returnVALUE([200, 400, 500,600]));
