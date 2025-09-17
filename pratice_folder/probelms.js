@@ -35,15 +35,11 @@ let fifa = ronaldo.toLocaleString("en-US",messi);
 console.log(fifa)
 
 //problem
-///Write a program that solves the following expression: 
-//               [Equation]
-// Suppose the values of variables used in expression are as follows: 
+///Write a function that returns the square of a number.
 
-//x = 9, y = 15, z = 5 
+function square(num){
+ 
+    return  num *  num;
+}
 
-//Note: These values should be inputted during execution of program.  
-
-// JavaScript program to solve an expression
-
-// Take input from user
-
+console.log(square(8));
