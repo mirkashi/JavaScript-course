@@ -20,26 +20,37 @@ console.log(result);
 
 //start
  
-let ronaldo = new Date()
+// let ronaldo = new Date()
  
-let messi ={
-month:"long",
-year:"numeric",
-day:"numeric",
-minute:"2-digit",
-hour:"numeric",
-hour12:true
-};
+// let messi ={
+// month:"long",
+// year:"numeric",
+// day:"numeric",
+// minute:"2-digit",
+// hour:"numeric",
+// hour12:true
+// };
 
-let fifa = ronaldo.toLocaleString("en-US",messi);
-console.log(fifa)
+// let fifa = ronaldo.toLocaleString("en-US",messi);
+// console.log(fifa)
 
 //problem
 ///Write a function that returns the square of a number.
 
-function square(num){
+// function square(num){
  
-    return  num *  num;
-}
+//     return  num * num;
+// }
 
-console.log(square(8));
+// console.log(square(8));
+
+///Write a function that checks if a number is even or odd.
+function checkevenodd(num){
+    if (num 2 % === 0){
+        return "even";
+    } else
+    {
+        return "odd";
+    }
+
+}
