@@ -78,6 +78,6 @@ learn JavaScript in 6 months its my Target.lets goo budy!
 5- Array uses in functions and learn aboutmore functins.
 
 # Tuesday
-<h1>continue</h1>
+
 
 </p>
