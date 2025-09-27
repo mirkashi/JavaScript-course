@@ -1,5 +1,5 @@
 # JavaScript-course
-learn JavaScript in 6 months its my Target.lets goo budy!
+learn JavaScript in 6 months its my Target.lets goo budy!gg
 
  <h3>I think one week getting complete and i can't learn perfectly.I need More attention!</h3>
 
