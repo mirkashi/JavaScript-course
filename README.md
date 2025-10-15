@@ -82,3 +82,4 @@ learn JavaScript in 6 months its my Target.lets goo budy!gg
 break
 error fixer
 </p>
+# Note
