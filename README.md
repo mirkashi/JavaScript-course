@@ -84,3 +84,17 @@ error fixer
 </p>
 
 # Note
+<h5>javascript ka course continue hai bas thore see busy sheuld mai time nahi milta </br>
+abi Mern stack py kam hora eik project hai is liyea
+
+
+
+</h5>
+
+
+
+
+
+
+
+
